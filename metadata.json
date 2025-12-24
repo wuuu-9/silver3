@@ -1,0 +1,7 @@
+{
+  "name": "silver",
+  "description": "An elegant 3D particle Christmas tree experience with gesture-driven state transitions and subtle haptic feedback integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
